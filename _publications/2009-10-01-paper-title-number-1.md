@@ -9,4 +9,5 @@ paperurl:
 citation: 'M. Soumm, A. Popescu, B. Delezoide (2023). &quot;Vis2Rec: A Large-Scale Visual Dataset for Visit Recommendation&quot;, <i>WACV</i>'
 ---
 
+Get access to the dataset [here](https://github.com/Msoumm/Vis2Rec)
 <!---[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->

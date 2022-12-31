@@ -7,7 +7,7 @@
 
 # Site Settings
 
-locale                   : "fr-FR"
+locale                   : "en-US"
 title                    : "Michaël Soumm"
 title_separator          : "-"
 name                     : &name "Michaël Soumm"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Michaël Soumm"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "PhD student at CEA List, working on image-based recommender systems"
   location         : "Paris, France"
   employer         :

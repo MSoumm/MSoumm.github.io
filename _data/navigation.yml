@@ -8,9 +8,6 @@ main:
 
   - title: "Work and Projects"
     url: /work/
-
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Contact"
     url: /contact/
