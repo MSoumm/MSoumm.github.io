@@ -31,12 +31,18 @@ My current main PhD project.
 
 ### 2019-2020 : NLP and political agendas
 ***
-Master's project at _ENSAE Paris_ . 
+Master's project at _ENSAE Paris_ directed by **Etienne Ollion** (CNRS) and **Salomé DO** (ENS Ulm). 
 - **Problem overview**
   - During the French 2017 presidential election, candidates presented political agendas, some of which were taken up in mainstream media.
   - Some agendas seemed to be better represented than others. Even when a media did not agree with a proposition, the mere emphasis on a candidate's favorite topic could benefit him/her.
   - Is it possible to accurately mesure the resonance from the candidates agenda in the French media ?
 - **Proposed work**
-  - _Word2Vec_ and _TF-ID_F embeddings are used to mesure what are the taken up sentences for each candidate.
+  - _Word2Vec_ and _TF-IDF_ embeddings are used to mesure what are the taken up sentences for each candidate.
   By varying the similarity threshold, one can distinguish raw citation from paraphrasing, or critique. 
-  - Topic modeling with _LDA_ 
+  - Topic modeling with _LDA_, that didn't lead to good results
+  - Theme prediction with _BERT_: 10k sentences are labelized by hand in 15 distinct topics. We train a BERT pipeline on this
+dataset to predict topics in the media. We then compare the distributions of the topics in the media against each candidate.
+- **Findings**
+  - Correlation with _Word2Vec_ in combination with topic prediction with _BERT_ gives a global view
+  - Some candidates successfully bring topics in the media, while not beeing paraphrased a lot. On the contrary, some candidates only exist through the citation of niche topics.
+  - Tracking topics in the media over time shows that the external political events have a huge impact on the representativeness of the candidates
