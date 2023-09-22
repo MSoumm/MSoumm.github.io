@@ -9,14 +9,14 @@ redirect_from:
 {% include base_path %}
 ## Education
 ***
-* 2024 : **PhD in Machine Learning**, _CEA LIST / Univeristé Paris-Saclay_, Palaiseau
-* 2021 : **MVA Master degree (Mathematics-Vision-Learning)**, _ENS Paris-Saclay_, Paris
-* 2021 : **Master in Machine Learning**, _ENSAE Paris Graduate Engineering School_, Paris
+* 2024 : **PhD in Machine Learning**, _CEA LIST / Université Paris-Saclay_, Palaiseau
+* 2021 : **MSc. in Applied Mathematics (MVA: Mathematics-Vision-Learning)**, _ENS Paris-Saclay_, Paris
+* 2021 : **MSc. in Statistics**, _ENSAE Paris Graduate Engineering School_, Paris
 
 ## Work experience
 ***
-* 2021-2024: PhD Student in Deep Learning,  _CEA LIST / Univeristé Paris-Saclay_
-  * Privacy preserving recommender systems from user-images
+* 2021-2024: PhD Student in Deep Learning,  _CEA LIST / Université Paris-Saclay_
+  * Main subject Privacy preserving recommender systems from user-images
 
 * Fall 2021: Research Intern,  _CEA LIST_
   * Self-supervised monocular depth prediction for autonomous driving

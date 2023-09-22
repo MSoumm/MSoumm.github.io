@@ -8,6 +8,9 @@ main:
 
   - title: "Work and Projects"
     url: /work/
+
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Contact"
     url: /contact/
