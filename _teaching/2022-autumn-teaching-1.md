@@ -7,6 +7,7 @@ venue: "ENSAE Paris"
 date: 2022-10-01
 location: "Palaiseau, France"
 ---
+Teacher : Arnak S. Dalalyan 
 
 This course presents the theoretical bases of statistical modelling, essentially in a parametric framework. Preference is given to the inferential approach, and we deal primarily with parameter estimation methods and their properties, particularly in terms of optimality (asymptotic or finite distance). The theory of hypothesis testing will also be examined.
 
