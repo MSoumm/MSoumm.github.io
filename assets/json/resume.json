@@ -1,200 +1,226 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michaël Soumm",
+    "label": "Deep Learning Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "soumm@telecom-paris.fr",
+    "phone": "",
+    "url": "https://msoumm.github.io",
+    "summary": "Deep Learning researcher with expertise in model evaluation, fairness, and representation learning. Three years of experience in deep learning across computer vision, NLP, and recommendation systems.  Solid applied  (MVA MSc.) and theoretical (ENSAE Paris MSc.) knowledge, consistently ranked in the top 5% in DL, CV, and NLP courses. Three papers published at WACV, and one paper currently under review.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "MichaelSoumm",
+        "url": "https://x.com/MichaelSoumm"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "IDS (Télécom Paris) & MLIA (Sorbonne University)",
+      "position": "Postdoctoral Researcher in Deep Learning",
+      "url": "",
+      "startDate": "2025-02-01",
+      "endDate": "",
+      "summary": "Disentangled and Controllable Latent Representations for Computer Vision and Medical Imaging. Under the supervision of Pietro Gori and Dr. Alasdair Newson.",
+      "highlights": ["Developping <b><b>structured latent representations</b></b> for medical imaging, focusing on disentangling healthy and pathological brain patterns in neuroimaging.",
+      "Adapting contrastive learning to enhance  <b><b>interpretability</b></b>  in psychiatric disorder diagnostics.", 
+      "Investigating  <b><b>diffusion models</b></b>, optimizing their latent space structure for improved synthesis and analysis of neuroimaging data."]
+    },
+
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "CEA LIST",
+      "position": "PhD in Deep Learning",
+      "url": "",
+      "startDate": "2021-12-01",
+      "endDate": "2024-12-16",
+      "summary": "Refining Machine Learning Evaluation: Statistical Insights into Model Performance and Fairness. Under the direction of Betrand Delezoide and Adrian Popescu.",
+      "highlights": ["Developed and integrated statistical methodologies to improve the <b><b>robustness and interpretabilityy</b></b> of deep learning model evaluations in 3 fields",
+      "Studied the <b><b>impact of pre-training and architectures for Class Incremental Learning (CIL)</b></b>, identifying key factors affecting performance, with results published in WACV 2024.", 
+      "Investigated <b><b>biases in Face Recognition systems</b></b>, quantifying demographic disparities, with findings under review. Showed how using conditioned generation can reduce biases, accepted in WACV 2025.",
+    "Developed novel information metrics to characterize difficult users for <b><b>Recommender systems</b></b>, and studied their impact on performance. Work under review."]
+    },
+
+    {
+      "name": "CEA LIST / Valeo",
+      "position": "Research Intern in Deep Learning",
+      "url": "",
+      "startDate": "2021-05-01",
+      "endDate": "2024-11-01",
+      "summary": "<b><b>Self-supervised depth prediction from monocular images</b></b>. Goal: perform depth prediction for autonomous driving. Under the supervision of Florian Chabot.",
+      "highlights": ["Developed and integrated statistical methodologies to improve the <b><b>robustness and interpretabilityy</b></b> of deep learning model evaluations in 3 fields",
+      "<b><b>Crafted a Vision Transformer U-Net</b></b> pipeline for Depth prediction.", 
+      "Adapted the model to a <b><b>self-supervised</b></b> setup."]
+    },
+    {
+      "name": "CREST (ENSAE Paris)",
+      "position": "Research Intern in Statistics",
+      "url": "",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-01",
+      "summary": "Investigated <b><b>variable selection</b></b> in high-dimensional data, using <b><b>Sequential Monte-Carlo</b></b> methods. Under the supervision of Nicolas Chopin.",
+      "highlights": []
     }
   ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Unversité Paris-Saclay and CEA List",
+      "location": "Palaiseau, France",
+      "url": "",
+      "area": "Deep Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-12-01",
+      "endDate": "2024-12-16",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ENS Paris-Saclay",
+      "location": "Palaiseau, France",
+      "url": "",
+      "area": "MVA (Mathematics, Vision, and Learning)",
+      "studyType": "MSc",
+      "startDate": "2020-09-01",
+      "endDate": "2021-05-01",
+      "score": "17.5/20 (A+)",
+      "courses": ["Deep Learning (V. Lepetit)", 
+      "Object Recognition and Computer Vision (I. Laptev)",
+      "Deep Learning in Practice (G. Charpiat)",
+      "Image denoising : the human machine competition (J.M. Morel)",
+      "Graphs in Machine Learning(M. Valko)",
+    "Geometrical Deep Learning (J. Feydy)",
+  "Geometric Approaches in Statistical Learning: The Example of Longitudinal Data (S. Durrleman)"]
+    },
+    {
+      "institution": "ENSAE Paris",
+      "location": "Palaiseau, France",
+      "url": "",
+      "area": "Statistics",
+      "studyType": "MSc",
+      "startDate": "2018-09-01",
+      "endDate": "2021-05-01",
+      "score": "16.63/20 (A+)",
+      "courses": ["Statistics 1 & 2",
+    "Deep Learning",
+  "NLP",
+"Reinforcement Learning",
+"Optimization",
+"Time Series",
+"Bayesian Statistics",
+"Econometrics"]
     }
   ],
-  "awards": [
+ "publications": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Vis2Rec: A Large-Scale Visual Dataset for Visit Recommendation",
+      "publisher": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "releaseDate": "2023",
+      "url": "https://openaccess.thecvf.com/content/WACV2023/papers/Soumm_Vis2Rec_A_Large-Scale_Visual_Dataset_for_Visit_Recommendation_WACV_2023_paper.pdf",
+      "summary": "Introduces Vis2Rec, a large-scale dataset for visit recommendation based on visual data, addressing challenges in recommendation systems with multimodal information."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Quantifying User Coherence: A Unified Framework for Cross-Domain Recommendation Analysis",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2410.02453",
+      "summary": "Proposes a framework to measure user coherence in cross-domain recommendation, providing insights into user behavior consistency across different domains."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification",
+      "publisher": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2412.03349",
+      "summary": "Develops fairness-aware analysis and face generation techniques to mitigate demographic biases in face verification models.",
+      "code": "https://github.com/MSoumm/FaVFA"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "An Analysis of Initial Training Strategies for Exemplar-Free Class-Incremental Learning",
+      "publisher": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2308.11677",
+      "summary": "Investigates the impact of initial training strategies on exemplar-free class-incremental learning, highlighting key factors affecting model adaptation over time."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Deep Learning",
+      "level": "PhD",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision",
+        "Model Evaluation",
+        "Representation Learning",
+        "Fairness",
+        "Recommendation Systems",
+        "NLP",
+        "Class Incremental Learning"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "level": "MSc",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Probability", "Statistics", "Optimization", "Linear Algebra", "Analysis", "Graph Theory"
+      ]
+    },
+    {
+      "name": "Coding",
+      "level": "PhD",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Pytorch",
+        "Tensorflow",
+        "Scikit-learn",
+        "Pandas",
+        "Numpy"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "🇫🇷 French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "🇬🇧 English",
+      "fluency": "Fluent (TOEIC 990/990)",
+      "icon": ""
+    },
+    {
+      "language": "🇷🇺 Russian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "🇩🇪 German",
+      "fluency": "Basics (B1)",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "NLP and Political Programs – Applied Statistics Project (ENSAE)",
+      "summary": "Used Natural Language Processing (NLP) techniques to analyze the representation of French political programs in the media, assessing their visibility and narrative influence.",
+      "highlights": [
+        "Topic Modeling with LDA",
+        "Text Embeddings using Word2Vec and TF-IDF",
+        "Advanced Techniques: LSTM and Transformers (BERT)"
+      ],
+      "startDate": "2020",
+      "endDate": "2020",
+      "url": ""
     }
   ]
 }
